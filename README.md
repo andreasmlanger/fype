@@ -1,4 +1,4 @@
-# Fype
+# Fype (Build)
 A minimalistic React app using Agora that allows video calls and screen sharing.
 
 ## How to use
